@@ -1,0 +1,3 @@
+-Create Github
+-Create uml of project
+-Set up project enviroment 
